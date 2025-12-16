@@ -16,5 +16,9 @@
             <groupId>com.thanhvv</groupId>
             <artifactId>order-message</artifactId>
         </dependency>
+        <dependency>
+            <groupId>com.thanhvv</groupId>
+            <artifactId>common-domain</artifactId>
+        </dependency>
     </dependencies>
 </project>
